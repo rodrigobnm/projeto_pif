@@ -69,15 +69,15 @@ Para executar o Pong2, siga estas etapas:
 
 <ul>
   <li>
-    <a href="https://github.com/Thomazrlima">Thomaz Lima</a> -
+    <a href="https://github.com/fbclipe">Felipe Barros</a> -
     fbc@cesar.school 📩
   </li>
   <li>
-    <a href="https://github.com/hsspedro">Pedro Henrique Silva</a> -
+    <a href="https://github.com/bernardoheuer">Bernardo Heuer</a> -
     bchg@cesar.school 📩
   </li>
   <li>
-    <a href="https://github.com/Sofia-Saraiva">Sofia Saraiva</a> -
+    <a href="https://github.com/rodrigobnm">Rodrigo Nunes</a> -
     rbnm@cesar.school 📩
   </li>
 </ul>
