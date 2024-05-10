@@ -1,3 +1,0 @@
-C:/Users/rodri/OneDrive/Área de Trabalho/ecopay/projeto_pif/cmake-build-debug/CMakeFiles/untitled3.dir
-C:/Users/rodri/OneDrive/Área de Trabalho/ecopay/projeto_pif/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/rodri/OneDrive/Área de Trabalho/ecopay/projeto_pif/cmake-build-debug/CMakeFiles/rebuild_cache.dir
