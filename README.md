@@ -81,7 +81,7 @@ Para executar o Pong2, siga estas etapas:
     rbnm@cesar.school 📩
   </li>
 </ul>
-
+<!--
 <table>
   <tr>
     <td align="center">
@@ -110,7 +110,7 @@ Para executar o Pong2, siga estas etapas:
     </td>
   </tr>
 </table>
-
+-->
 ## Licença
 
 Lorem Ipsum has been the industry's standard
