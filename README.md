@@ -25,30 +25,29 @@
   /></a>
 </p>
 
-## 🖥️ XYZ
+## 🖥️ Space Invaders
 
 ## 📄 Descrição
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Space Invaders é um clássico jogo de arcade lançado em 1978, onde os jogadores controlam uma nave espacial que deve defender a Terra de uma horda de alienígenas invasores.
 
 ## 🎲 Objetivo do Jogo
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-### ⚾ Múltiplas Bolas:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+O objetivo de Space Invaders é controlar uma nave espacial e destruir ondas de alienígenas que descem gradualmente em direção à Terra. O jogador deve atirar nos invasores antes que eles alcancem o solo, evitando os projéteis inimigos. A cada onda eliminada, a velocidade e dificuldade aumentam, testando a habilidade e reflexos do jogador.
 
 ### 👾 Pontuação Duplicada:
-Lorem Ipsum has been the industry's standard
+
+Após eliminar uma onda, sua pontuação fica dobrada.
 
 ### ⚡️ Alta Velocidade:
-Lorem Ipsum has been the industry's standard
+
+Caso consiga avançar de fase, a velocidade vai aumentando gradativamente!
 
 ## 🕹️ Como Jogar
 
-- Use as teclas de seta ou as teclas "w" e "s" para controlar a raquete no lado esquerdo da tela e "i" e "k" para controlar a raquete no lado direito da tela.
+- Use as teclas "a" e "d" para controlar a nave movendo para direita e esquerda e "espaço" para atirar.
 - Certifique-se de manter o caps lock desativado.
-- Mantenha suas raquetes em movimento para acertar as bolas e marcar pontos.
+- Mantenha sua nave em movimento para acertar os alienígenas e marcar pontos.
 
 ## ♟️ Executando o Jogo
 
